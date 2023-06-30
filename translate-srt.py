@@ -26,6 +26,7 @@ def traducir_archivo(archivo_entrada, lang, ext):
 
     texto_traducido = texto_traducido.replace("->", "-->")
     texto_traducido = texto_traducido.replace(": ", ":")
+    texto_traducido = texto_traducido.replace("--->", "-->")
 
     with open(archivo_destino, 'w', encoding='utf-8') as archivo_destino:
         archivo_destino.write(texto_traducido)
