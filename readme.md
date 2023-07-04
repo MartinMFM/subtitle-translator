@@ -44,6 +44,14 @@ Antes de ejecutar el código, asegúrate de tener instaladas las siguientes depe
  
 ¡Disfruta traduciendo tus subtítulos con facilidad usando este código!
 
+## Responsabilidad
+
+Este programa se proporciona "tal cual" y sin garantía de ningún tipo. El autor no asume ninguna responsabilidad por el uso que se le dé al programa ni por cualquier consecuencia derivada de su uso. El usuario es el único responsable de verificar la legalidad y la conformidad con los derechos de autor de los archivos que se traduzcan utilizando este programa.
+
+Se recomienda utilizar este programa de acuerdo con las leyes y regulaciones aplicables en tu jurisdicción y respetar los derechos de autor de los contenidos traducidos.
+
+El autor no se hace responsable de ningún daño directo, indirecto, incidental, especial, ejemplar o consecuente que surja del uso de este programa.
+
 ## Licencia
 
 Este proyecto se encuentra bajo la licencia MIT. Puedes consultar el archivo [LICENSE](./LICENSE) para obtener más información.
